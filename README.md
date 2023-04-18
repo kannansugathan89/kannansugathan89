@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+Namaste! 🙏
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning JavaScript
